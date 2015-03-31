@@ -2,7 +2,7 @@
 
 ###Ingredientes
 
-1. 4 Batatas
+- 4 Batatas
 2. 3 Cenoras
 3. 2 Cebolas
 4. 2 Tomates
