@@ -1,16 +1,16 @@
-SOPA DE LEGUMES
+##SOPA DE LEGUMES
 
-Ingredientes:
+###Ingredientes
 
-- 4 Batatas
-- 3 Cenoras
-- 2 Cebolas
-- 2 Tomates
-- 1 Pimentao
-- 2 Colheres de margarinas
-- Macarrao e Sal
+1. 4 Batatas
+2. 3 Cenoras
+3. 2 Cebolas
+4. 2 Tomates
+5. 1 Pimentao
+6. 2 Colheres de margarinas
+7. Macarrao e Sal
 
-Modo de preparo:
+###Modo de preparo
 
 Corta os pedaços dos legumes em uma panela de precçao,depois coloca duas colheres de margarina com a pitada de sal,refoga.
 
